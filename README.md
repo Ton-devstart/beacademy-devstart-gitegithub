@@ -7,8 +7,8 @@ Professores: Régis Santos e Luan
 
 Git - Configuração Inicial
 
-git config --global user.name “nome_do_usuário”
-git config --global user.email “email do usuário”.
+- git config --global user.name “nome_do_usuário”
+- git config --global user.email “email do usuário”.
 
 
 Git - Repositórios
