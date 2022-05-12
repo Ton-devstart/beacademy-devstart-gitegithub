@@ -1,15 +1,18 @@
 # Git e Github
 
 Repositório criado para os entregáveis do curso de Git e Github da beacademy-paylivre.
+
 Professores: Régis Santos e Luan
 
 
 Git - Configuração Inicial
+
 git config --global user.name “nome_do_usuário”
 git config --global user.email “email do usuário”.
 
 
 Git - Repositórios
+
 Comandos:
 - git status: mostra as informações dentro do repositório.
 - git init: inicializa um repositório.
@@ -35,6 +38,7 @@ Conceitos:
 
 
 Git - Ramificação
+
 Comandos:
 - git branch: mostra as branch locais e em qual eu estou naquele momento.
 - git branch nome_da_branch: cria uma branch; para espaço posso usar hífen e anderline.
@@ -48,6 +52,7 @@ Conceitos:
 
 
 Github - Configuração
+
 Configuração:
 - acessar https://docs.github.com/pt/authentication/connecting-to-github-with-ssh.
 - clicar em “Gerar uma nova chave SSH e adicioná-la ao ssh-agent”.
@@ -58,6 +63,7 @@ Configuração:
 
 
 Github - Criando Repositório
+
 Criando:
 - acessar https://github.com/Ton-devstart?tab=repositories e clicar em “New”.
 - preencher o nome do repositório.
@@ -74,6 +80,7 @@ Enviar alterações:
 
 
 Versionamento de Projeto
+
 Conceitos:
 - separa/guarda um arquivo sem precisar fazer commit para resolver outras solicitações.
 
