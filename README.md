@@ -25,7 +25,7 @@ Formação completa que visa transformar você em um desenvolvedor back-end PHP 
 
 - git config --global user.name “nome_do_usuário”
 - git config --global user.email “email do usuário”.
-
+<br>
 
 **Git - Repositórios**
 
@@ -51,7 +51,7 @@ Formação completa que visa transformar você em um desenvolvedor back-end PHP 
     - registra as alterações de um projeto.
 	- é possível adicionar todos os arquivos que foram criados, alterados ou excluídos ou de forma individual.
 	- possui mensagens sobre o que está sendo realizado: nova funcionalidade, correção de bug, etc.
-
+<br>
 
 **Git - Ramificação**
 
@@ -65,7 +65,7 @@ Formação completa que visa transformar você em um desenvolvedor back-end PHP 
 
 *Conceitos:*
 - main: nome da branch principal/master.
-
+<br>
 
 **Github - Configuração**
 
@@ -76,7 +76,7 @@ Formação completa que visa transformar você em um desenvolvedor back-end PHP 
 - na pasta c/Users/nome_do_usuário/.ssh abrir o arquivo .pub com bloco de notas e copiar a chave.
 - acessar https://github.com/settings/keys e clicar em “New SSH Key”.
 - colocar um titulo e colar a chave.
-
+<br>
 
 **Github - Criando Repositório**
 
@@ -93,7 +93,7 @@ Formação completa que visa transformar você em um desenvolvedor back-end PHP 
 - abrir o arquivo “REDME” no repositório local, fazer as alterações necessárias e salvá-lo.
 - não é necessário enviar as alterações em cada commit, ou seja, pode-se usar o git push de uma só vez.
 - após acessar o diretório criado, adicionar o arquivo (git add.), comitar (git commit -m “comentário”) e fazer push.
-
+<br>
 
 **Versionamento de Projeto**
 
