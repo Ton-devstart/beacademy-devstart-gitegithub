@@ -36,6 +36,7 @@ Formação completa que visa transformar você em um desenvolvedor back-end PHP 
 - git rm --cached <file>: desfaz a adição de um arquivo ao commit.
 - git commit -m “mensagem”: cria o commit com uma mensagem relacionadas com as alterações do projeto.
 - git log: histórico dos commits.
+- git remote set-url origin new_url: atualiza o nome do repositório alterado no github.
 
 *Conceitos:*
 - branch: 
